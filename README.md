@@ -1,6 +1,11 @@
-- 👋 Hi, I’m @CodiProgs
-- 👀 I’m interested in programming, site layout. I'm studying the backend.
-- 🌱 I’m currently learning in college.
-- 💞️ I’m want to work for a company that requires an frontend or backend developer
-- 📫 Contact me by mail samuil.codiWork@mail.ru
-- 📫 Contact me by yahoo samuil.codiWork@yahoo.com
+- 👋 Привет! Я @CodiProgs. Меня зовут Самуил.
+- 🔍 Специализируюсь на backend-разработке с использованием NestJS, а также имею опыт работы с frontend на React и Next.js.
+- 🌱 В настоящее время продолжаю обучение в колледже, постоянно расширяя свои знания и навыки в области IT.
+- 💼 Активно ищу возможности для работы backend-разработчиком, готов также рассмотреть проекты на React или Next.js.
+- 📫 Связаться со мной можно по почте: samuil.codiWork@mail.ru или samuil.codiWork@yahoo.com.
+
+- 👋 Hi there! I'm @CodiProgs. My name is Samuel.
+- 🔍 Passionate about programming, I specialize in backend development with NestJS, and also have experience in frontend development using React and Next.js.
+- 🌱 Currently continuing my studies in college, constantly expanding my knowledge and skills in the IT field.
+- 💼 Actively seeking opportunities to work as a backend developer, also open to projects involving React and Next.js.
+- 📫 Feel free to reach out to me via email at samuil.codiWork@mail.ru or samuil.codiWork@yahoo.com.
